@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1501172844 source:c:\users\rodrigo-boni\desktop\warthog\item.cpp
+	"Item.h"
+	<iostream>
+
+1501283467 c:\users\rodrigo-boni\desktop\warthog\item.h
+	<iostream>
+
+1501283243 source:c:\users\rodrigo-boni\desktop\warthog\weapon.cpp
+	<iostream>
+	"Weapon.h"
+	"Item.h"
+
+1501283243 c:\users\rodrigo-boni\desktop\warthog\weapon.h
+	<iostream>
+	"Item.h"
+
+1501292431 source:c:\users\rodrigo-boni\desktop\warthog\main.cpp
+	<iostream>
+	"Weapon.h"
+	"Item.h"
+	"Armor.h"
+	"Potion.h"
+	"HealthPotion.h"
+	"ManaPotion.h"
+	"Inventory.h"
+	"Character.h"
+	"Knight.h"
+	"Thief.h"
+	"Wizard.h"
+	"Team.h"
+
+1501283263 source:c:\users\rodrigo-boni\desktop\warthog\armor.cpp
+	"Armor.h"
+	"Item.h"
+	<iostream>
+
+1501283255 c:\users\rodrigo-boni\desktop\warthog\armor.h
+	"Item.h"
+	<iostream>
+
+1501283243 c:\users\rodrigo-boni\desktop\warthog\potion.h
+	"Item.h"
+	<iostream>
+
+1501090594 source:c:\users\rodrigo-boni\desktop\warthog\potion.cpp
+	"Potion.h"
+	"Item.h"
+	<iostream>
+
+1501283243 source:c:\users\rodrigo-boni\desktop\warthog\healthpotion.cpp
+	"HealthPotion.h"
+	"Item.h"
+	"Potion.h"
+	<iostream>
+
+1501283243 c:\users\rodrigo-boni\desktop\warthog\healthpotion.h
+	"Item.h"
+	"Potion.h"
+	<iostream>
+
+1501173461 c:\users\rodrigo-boni\desktop\warthog\manapotion.h
+	"Item.h"
+	"Potion.h"
+	<iostream>
+
+1501173461 source:c:\users\rodrigo-boni\desktop\warthog\manapotion.cpp
+	"ManaPotion.h"
+	"Item.h"
+	"Potion.h"
+	<iostream>
+
+1501286188 source:c:\users\rodrigo-boni\desktop\warthog\inventory.cpp
+	"Inventory.h"
+	"Item.h"
+	<iostream>
+	<cstdlib>
+
+1501286188 c:\users\rodrigo-boni\desktop\warthog\inventory.h
+	<iostream>
+	"Item.h"
+
+1501259879 source:c:\users\rodrigo-boni\desktop\warthog\character.cpp
+	"Character.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Inventory.h"
+	<sstream>
+
+1501254445 c:\users\rodrigo-boni\desktop\warthog\character.h
+	<iostream>
+	"Inventory.h"
+
+1501260082 c:\users\rodrigo-boni\desktop\warthog\knight.h
+	"Character.h"
+	<iostream>
+
+1501292445 source:c:\users\rodrigo-boni\desktop\warthog\knight.cpp
+	"Knight.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	"Inventory.h"
+	"Character.h"
+	"Knight.h"
+	"Wizard.h"
+	"Team.h"
+
+1501292038 c:\users\rodrigo-boni\desktop\warthog\wizard.h
+	"Character.h"
+	<iostream>
+
+1501291540 c:\users\rodrigo-boni\desktop\warthog\team.h
+
+1501291547 source:c:\users\rodrigo-boni\desktop\warthog\team.cpp
+	"Team.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Inventory.h"
+	"Character.h"
+	"Knight.h"
+	"Wizard.h"
+	"Thief.h"
+	<sstream>
+
+1501291256 c:\users\rodrigo-boni\desktop\warthog\thief.h
+	"Character.h"
+	<iostream>
+
+1501292134 source:c:\users\rodrigo-boni\desktop\warthog\thief.cpp
+	"Thief.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	"Inventory.h"
+	"Character.h"
+	"Knight.h"
+	"Wizard.h"
+	"Team.h"
+
+1501292431 source:c:\users\rodrigo-boni\desktop\warthog\wizard.cpp
+	"Wizard.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Inventory.h"
+	"Character.h"
+	"Knight.h"
+	"Thief.h"
+	"Team.h"
+
